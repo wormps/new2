@@ -19960,7 +19960,7 @@
     {
       "id": 4243,
       "guest": false,
-      "nonbuyable": false,
+      "nonbuyable": 1,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -20260,7 +20260,7 @@
     {
       "id": 720,
       "guest": false,
-      "nonbuyable": 0,
+      "nonbuyable": 1,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -21992,7 +21992,7 @@
         "a_death"
       ],
       "guest": false,
-      "nonbuyable": false,
+      "nonbuyable": 1,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw"
@@ -22022,7 +22022,7 @@
         "a_death"
       ],
       "guest": false,
-      "nonbuyable": false,
+      "nonbuyable": 1,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw"
@@ -25060,7 +25060,7 @@
     {
       "id": 4275,
       "guest": false,
-      "nonbuyable": false,
+      "nonbuyable": 1,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
