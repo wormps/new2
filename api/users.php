@@ -3,7 +3,7 @@
     "Users": [
         {
             "id": 1,
-            "cliente_NOMBRE": "shokalatah",
+            "cliente_NOMBRE": "PANDA",
             "cliente_ID": "gg_118003751567153802477",
             "Client_KeyAccecs": "XTPRIVATESKIN",
             "cliente_DateExpired": "2999-03-20",
@@ -11,7 +11,7 @@
             "Client_VisibleSkin": "4243",
             "Client_VisibleSkin1": "777",
             "Client_VisibleSkin2": "778",
-            "Client_VisibleSkin3": "0000",
+            "Client_VisibleSkin3": "3557",
             "Client_VisibleSkin4": "0000",
             "Client_VisibleSkin5": "0000",
             "Client_VisibleSkin6": "0000",
@@ -1149,7 +1149,7 @@
             "cliente_DateExpired": "2029-12-20",
             "status": 1,
             "Client_VisibleSkin": "855",
-            "Client_VisibleSkin1": "1840",
+            "Client_VisibleSkin1": "3557",
             "Client_VisibleSkin2": "720",
             "Client_VisibleSkin3": "4275",
             "Client_VisibleSkin4": "0000",
