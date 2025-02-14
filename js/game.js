@@ -6020,9 +6020,37 @@ else {
                 Update : 20/12/2024
                 </div>
                 
-                   <div class="list1"><i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a></div></div>
-              
-                   `);
+                    <div class="list1" style="color: #ffffff; font-family: 'Verdana', sans-serif; font-size: 12px; line-height: 1.4;">
+                      <ul style="list-style: none; padding: 0; margin: 0;">
+                        <li style="margin-bottom: 4px;">
+                          <i class="fa fa-pencil" aria-hidden="true" style="margin-right: 8px;"></i>
+                          Current Wormps Price List.
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="fa fa-map" aria-hidden="true" style="margin-right: 8px;"></i>
+                          Activation: Free.
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="fa fa-mouse-pointer" aria-hidden="true" style="margin-right: 8px;"></i>
+                          Upload Skin: $2.
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="fa fa-users" aria-hidden="true" style="margin-right: 8px;"></i>
+                          To Advertise: $5.
+                        </li>
+                        <li style="margin-bottom: 4px;">
+                          <i class="fa fa-bars" aria-hidden="true" style="margin-right: 8px;"></i>
+                          Room (Photo and Name of Your Choice): $3.
+                        </li>
+                        </li>                        <li style="margin-bottom: 4px;">
+                          <i class="fa fa-link" aria-hidden="true" style="margin-right: 8px;"></i>
+                          <a href="https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" style="color: #48ff00; text-decoration: none; font-weight: bold;">Check out our Youtube Channel</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                `);
 
 
             $("#mm-coins-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
