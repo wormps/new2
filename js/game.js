@@ -144,7 +144,7 @@ let servers = {
 
 
 async function loadUsers() {
-    await fetch("https://wormps.github.io/new/api/users.php")
+    await fetch("https://wormps.github.io/new2/api/users.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
