@@ -6582,7 +6582,7 @@ $("#background-canvas").replaceWith(`
             <a class="link" hreflang="en" href="###">© 2024 WormPS</a>
             
             <a style="font-size: 17px;font-weight: 600;">wormps.github.io</a>
-          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in VungTau !</a>
+          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in TÜRKİYE !</a>
             </footer>
 
 
