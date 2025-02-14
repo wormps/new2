@@ -26374,7 +26374,7 @@
     {
       "id": 3557,
       "guest": false,
-      "nonbuyable": false,
+      "nonbuyable": 1,
       "price": 0,
       "priceBefore": 0,
       "prime": "c__yllw",
@@ -31264,7 +31264,7 @@
     },
     "skin_chery_03": {
       "custom": true,
-      "relativePath": "https://i.imgur.com/hlbE3o4.png"
+      "relativePath": "https://i.imgur.com/L3SwnsK.png"
     },
     "nonamilo_01": {
       "custom": true,
