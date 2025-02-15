@@ -144,7 +144,7 @@ let servers = {
 
 
 async function loadUsers() {
-    await fetch("https://wormps.github.io/new/api/users.php")
+    await fetch("https://wormps.github.io/new2/api/users.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -165,7 +165,7 @@ async function loadUsers() {
 }
 
 async function loadServers() {
-    await fetch("https://wormps.github.io/new/api/server.php")
+    await fetch("https://wormps.github.io/new2/api/server.php")
         .then(response => response.json())
         .then(response => {
             if (response.success) {
@@ -3231,32 +3231,36 @@ else {
                         var options = POGL.$b.from("/images/bg-pattern-pow2-TEAM2.png");
                         return options.wrapMode = POGL.kc.lc, options;
                     }());
-                    this.Af = new POGL._b(POGL.$b.from("/images/lens.png"));
-                    var COMPUTE = POGL.$b.from("/images/wear-ability.png");
-
-                    var EMOJI_HEADSHOT = POGL.$b.from("https://i.imgur.com/EDt862t.png");
-                    var EMOJI_KILL = POGL.$b.from("https://i.imgur.com/U5sTlhC.png");
-
-                    var COMPUTEMOBILE_GIE = POGL.$b.from("https://i.imgur.com/ub4ed3R.png");
-                    this.Id_mobileguia = new Region(COMPUTEMOBILE_GIE, 0, 0, 87, 74, 350, 63, 128, 128);
-                    this.emoji_headshot = new Region(EMOJI_HEADSHOT, 0, 0, 256, 256, 170.5, -163.5, 128, 128);
-                    this.emoji_kill = new Region(EMOJI_KILL, 0, 0, 256, 256, 170.5, -163.5, 128, 128);
-                    this.Ph = new Region(COMPUTE, 158, 86, 67, 124, 148, 63.5, 128, 128);
-                    this.Qh = new Region(COMPUTE, 158, 4, 87, 74, 203, 63.5, 128, 128);
-                    this.Rh = new Region(COMPUTE, 4, 4, 146, 146, 63.5, 63.5, 128, 128);
+                    this.Af = new _0x1c8759._b(_0x1c8759.$b.from("/images/lens.png"));
+                    var _0x4b81e5 = _0x1c8759.$b.from("/images/wear-ability.png");
+                    var _0x311798 = _0x1c8759.$b.from("https://i.imgur.com/EDt862t.png");
+                    var _0x224eef = _0x1c8759.$b.from('https://i.imgur.com/U5sTlhC.png');
+                    var _0x8d3486 = _0x1c8759.$b.from("https://i.imgur.com/ub4ed3R.png");
+                    var _0x92ba1f = _0x1c8759.$b.from('https://i.imgur.com/LFiCido.png');
+                    this.X_x5 = new _0x16f823(_0x92ba1f, 0x9c, 0x50, 0x57, 0x3c, 0xaa, 1.5, 0x80, 0x80);
+                    this.X_x10 = new _0x16f823(_0x92ba1f, 0x9e, 0xc8, 0x5f, 0x37, 0x109, 128.5, 0x80, 0x80);
+                    this.X_xxlupa = new _0x16f823(_0x92ba1f, 0x4f, 0x8, 0x4b, 0x4d, 0x109, 1.5, 0x80, 0x80);
+                    this.Id_mobileguia = new _0x16f823(_0x8d3486, 0x0, 0x0, 0x57, 0x4a, 0x15e, 0x3f, 0x80, 0x80);
+                    this.emoji_headshot = new _0x16f823(_0x311798, 0x0, 0x0, 0x100, 0x100, 170.5, -163.5, 0x80, 0x80);
+                    this.emoji_kill = new _0x16f823(_0x224eef, 0x0, 0x0, 0x100, 0x100, 170.5, -163.5, 0x80, 0x80);
+                    this.Ph = new _0x16f823(_0x4b81e5, 0x9e, 0x56, 0x43, 0x7c, 0x94, 63.5, 0x80, 0x80);
+                    this.Qh = new _0x16f823(_0x4b81e5, 0x9e, 0x4, 0x57, 0x4a, 0xcb, 63.5, 0x80, 0x80);
+                    this.Rh = new _0x16f823(_0x92ba1f, 0x9c, 0x8c, 0x57, 0x3c, 0xaa, 128.5, 0x80, 0x80);
                     this.Ug = function () {
-                        var t = window.document.createElement("canvas");
-                        return t.width = 80, t.height = 80, {
-                            te: t,
-                            Tg: t.getContext("2d"),
-                            Hc: new POGL._b(POGL.$b.from(t))
-                        };
+                      var _0xa812bd = window.document.createElement("canvas");
+                      _0xa812bd.width = 0x50;
+                      _0xa812bd.height = 0x50;
+                      return {
+                        'te': _0xa812bd,
+                        'Tg': _0xa812bd.getContext('2d'),
+                        'Hc': new _0x1c8759._b(_0x1c8759.$b.from(_0xa812bd))
+                      };
                     }();
                     this.Bd = {};
                     this.yd = {};
                     this.Sh = [];
                     this.Th = null;
-                }
+                  }
 
                 var e = function (backgroundIMG) {
                     var options = POGL.$b.from(backgroundIMG || "https://i.imgur.com/8ubx4RA.png");
@@ -6020,37 +6024,9 @@ else {
                 Update : 20/12/2024
                 </div>
                 
-                    <div class="list1" style="color: #ffffff; font-family: 'Verdana', sans-serif; font-size: 12px; line-height: 1.4;">
-                      <ul style="list-style: none; padding: 0; margin: 0;">
-                        <li style="margin-bottom: 4px;">
-                          <i class="fa fa-pencil" aria-hidden="true" style="margin-right: 8px;"></i>
-                          Current Wormps Price List.
-                        </li>
-                        <li style="margin-bottom: 4px;">
-                          <i class="fa fa-map" aria-hidden="true" style="margin-right: 8px;"></i>
-                          Activation: Free.
-                        </li>
-                        <li style="margin-bottom: 4px;">
-                          <i class="fa fa-mouse-pointer" aria-hidden="true" style="margin-right: 8px;"></i>
-                          Upload Skin: $2.
-                        </li>
-                        <li style="margin-bottom: 4px;">
-                          <i class="fa fa-users" aria-hidden="true" style="margin-right: 8px;"></i>
-                          To Advertise: $5.
-                        </li>
-                        <li style="margin-bottom: 4px;">
-                          <i class="fa fa-bars" aria-hidden="true" style="margin-right: 8px;"></i>
-                          Room (Photo and Name of Your Choice): $3.
-                        </li>
-                        </li>                        <li style="margin-bottom: 4px;">
-                          <i class="fa fa-link" aria-hidden="true" style="margin-right: 8px;"></i>
-                          <a href="https://youtube.com/@panda-tik?si=-9zprUAOVGknj1Fb" style="color: #48ff00; text-decoration: none; font-weight: bold;">Check out our Youtube Channel</a>
-                        </li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-                `);
+                   <div class="list1"><i class="fa fa-book" aria-hidden="true" style="color:48ff00;"></i> Instructions for installing on IOS and iPad New 2024: <a href="https://www.youtube.com/watch?v=uyHHXWKHgRw">https://www.youtube.com/watch?v=uyHHXWKHgRw</a></div></div>
+              
+                   `);
 
 
             $("#mm-coins-box").replaceWith(`<div style="margin: 0;" id="mm-coins-box">
@@ -6542,7 +6518,7 @@ $('#default-cursor-btn').click(function () {
         id = name;
         
         $.ajax({
-            url: 'https://wormps.github.io/new/api/lan-da-vh.php',
+            url: 'https://wormps.github.io/new2/api/skins.php',
             method: 'GET',
             dataType: 'json',
             success: function (id) {
@@ -6610,7 +6586,7 @@ $("#background-canvas").replaceWith(`
             <a class="link" hreflang="en" href="###">© 2024 WormPS</a>
             
             <a style="font-size: 17px;font-weight: 600;">wormps.github.io</a>
-          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in TÜRKİYE !</a>
+          <a style="font-size: 17px;font-weight: 500;color: #ff0;"> Made with <i class='fa fa-heart animated infinite pulse' style='color:red'></i> in VungTau !</a>
             </footer>
 
 
