@@ -30881,7 +30881,7 @@
         },
         "25ypg_03": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/5kobytx.png"
+            "relativePath": "https:\/\/i.imgur.com\/I2Rc0yp.png"
         },
         "25ypg_04": {
             "custom": true,
@@ -30901,7 +30901,7 @@
         },
         "25ypg_08": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/SWmJVZe.png"
+            "relativePath": "https:\/\/i.imgur.com\/wPzBQvP.png"
         },
         "25ypg_09": {
             "custom": true,
@@ -30917,7 +30917,7 @@
         },
         "Turkish_12": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/E0BDDon.png"
+            "relativePath": "https:\/\/i.imgur.com\/mibRtLl.png"
         },
         "25ypg_13": {
             "custom": true,
