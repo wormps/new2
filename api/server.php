@@ -395,14 +395,14 @@
         },
         {
             "id": 272,
-            "name": "02. Brasil - WFC<img class='team' src='https://haylamday.com/images/team/wfc.png'/> <div id='online'></div>",
+            "name": "02. Brasil <img class='team' src='https://haylamday.com/images/team/wfc.png'/> <div id='online'></div>",
             "region": "germania",
             "serverUrl": "wss://sao-a.wormate.io:31713/wormy",
             "status": 1
         },
         {
             "id": 271,
-            "name": "01. Guizeira  <img class='team' src='https://haylamday.com/images/team/Guizeira.jpg'/> <div id='online'></div>",
+            "name": "01. Brasil  <img class='team' src='https://haylamday.com/images/team/Guizeira.jpg'/> <div id='online'></div>",
             "region": "germania",
             "serverUrl": "wss://sao-a.wormate.io:30560/wormy",
             "status": 1
@@ -1493,7 +1493,7 @@
         },
         {
             "id": 2,
-            "name": "02.\ud83d\udd34 YT Seko⚡v4<img class='team' src='https://i.imgur.com/FIme4PC.png'/> <div id='online'></div>",
+            "name": "02.SEKO 🇹🇷 <img class='team' src='https://i.imgur.com/ULMDeli.png'/> <div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1
