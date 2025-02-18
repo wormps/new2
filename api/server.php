@@ -528,7 +528,7 @@
         },
         {
             "id": 200,
-            "name": "SEKO 🇹🇷<img class='team' src='https://i.imgur.com/ULMDeli.png'/> <div id='online'></div>",
+            "name": "01. SEKO 🇹🇷<img class='team' src='https://i.imgur.com/ULMDeli.png'/> <div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
             "status": 1
