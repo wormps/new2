@@ -402,133 +402,133 @@
         },
         {
             "id": 271,
-            "name": "01. Brasil  <img class='team' src='https://haylamday.com/images/team/Guizeira.jpg'/> <div id='online'></div>",
+            "name": "01. Brasil  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> <div id='online'></div>",
             "region": "germania",
             "serverUrl": "wss://sao-a.wormate.io:30560/wormy",
             "status": 1
         },
         {
             "id": 217,
-            "name": "18. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "18. FR-W-PS <img class='team' src='hhttps://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:30909/wormy",
             "status": 1
         },
         {
             "id": 216,
-            "name": "17. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "17. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:30265/wormy",
             "status": 1
         },
         {
             "id": 215,
-            "name": "16. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "16. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1
         },
         {
             "id": 214,
-            "name": "15. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "15. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31695/wormy",
             "status": 1
         },
         {
             "id": 213,
-            "name": "14. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "14. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31819/wormy",
             "status": 1
         },
         {
             "id": 212,
-            "name": "13. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "13. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://fra-c.wormate.io:31392/wormy",
             "status": 1
         },
         {
             "id": 211,
-            "name": "12. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "12. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
             "status": 1
         },
         {
             "id": 210,
-            "name": "11. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "11. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://fra-c.wormate.io:30140/wormy",
             "status": 1
         },
         {
             "id": 209,
-            "name": "10. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "10. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:32054/wormy",
             "status": 1
         },
         {
             "id": 208,
-            "name": "09. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "09. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
             "status": 1
         },
         {
             "id": 207,
-            "name": "08. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "08. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
             "status": 1
         },
         {
             "id": 206,
-            "name": "07. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "07. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
             "status": 1
         },
         {
             "id": 205,
-            "name": "06. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "06. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
             "status": 1
         },
         {
             "id": 204,
-            "name": "05. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "05. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://dal-b.wormate.io:32584/wormy",
             "status": 1
         },
         {
             "id": 203,
-            "name": "04. FR - WFC <img class='team' src='https://haylamday.com/images/team/wfc.png'/> <div id='online'></div>",
+            "name": "04. FR - W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> <div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
             "status": 1
         },
         {
             "id": 202,
-            "name": "03. Mido Gaming <img class='team' src='https://haylamday.com/images/team/wfc.png'/> <div id='online'></div>",
+            "name": "03. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> <div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
             "status": 1
         },
         {
             "id": 201,
-            "name": "02. KURDISTAN <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "02. FR-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:32054/wormy",
             "status": 1
         },
         {
             "id": 200,
-            "name": "01.\ud83d\udd34 YT Nona Milano<img class='team' src='https://i.imgur.com/RQTKt8G.jpeg'/> <div id='online'></div>",
+            "name": "SEKO 🇹🇷<img class='team' src='https://i.imgur.com/ULMDeli.png'/> <div id='online'></div>",
             "region": "francia",
             "serverUrl": "wss://gra-a.wormate.io:31038/wormy",
             "status": 1
@@ -787,532 +787,532 @@
         },
         {
             "id": 110,
-            "name": "41. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "41. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30725/wormy",
             "status": 1
         },
         {
             "id": 109,
-            "name": "40. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "40. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://dal-b.wormate.io:30809/wormy",
             "status": 1
         },
         {
             "id": 108,
-            "name": "39. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "39. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:32500/wormy",
             "status": 1
         },
         {
             "id": 107,
-            "name": "38. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "38. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://sao-a.wormate.io:31163/wormy",
             "status": 1
         },
         {
             "id": 106,
-            "name": "37. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> <div id='online'></div>",
+            "name": "37. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> <div id='online'></div>",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:32212/wormy",
             "status": 1
         },
         {
             "id": 105,
-            "name": "36. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "36. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:32053/wormy",
             "status": 1
         },
         {
             "id": 104,
-            "name": "35. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "35. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:31516/wormy",
             "status": 1
         },
         {
             "id": 103,
-            "name": "34. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "34. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:31311/wormy",
             "status": 1
         },
         {
             "id": 102,
-            "name": "33. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> <div id='online'></div>",
+            "name": "33. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> <div id='online'></div>",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:31211/wormy",
             "status": 1
         },
         {
             "id": 101,
-            "name": "32. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "32. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:31142/wormy",
             "status": 1
         },
         {
             "id": 100,
-            "name": "31. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "31. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:31026/wormy",
             "status": 1
         },
         {
             "id": 99,
-            "name": "30. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "30. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:30703/wormy",
             "status": 1
         },
         {
             "id": 98,
-            "name": "29. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "29. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32746/wormy",
             "status": 1
         },
         {
             "id": 97,
-            "name": "28. US<img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "28. US<img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:30332/wormy",
             "status": 1
         },
         {
             "id": 96,
-            "name": "27. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "27. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30208/wormy",
             "status": 1
         },
         {
             "id": 95,
-            "name": "26. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "26. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://sin-a.wormate.io:31750/wormy",
             "status": 1
         },
         {
             "id": 94,
-            "name": "25. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "25. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:30407/wormy",
             "status": 1
         },
         {
             "id": 93,
-            "name": "24. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "24. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:31555/wormy",
             "status": 1
         },
         {
             "id": 92,
-            "name": "23. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "23. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:31000/wormy",
             "status": 1
         },
         {
             "id": 91,
-            "name": "22. US  <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "22. US  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://sao-a.wormate.io:30072/wormy",
             "status": 1
         },
         {
             "id": 90,
-            "name": "21. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "21. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://dal-b.wormate.io:30135/wormy",
             "status": 1
         },
         {
             "id": 89,
-            "name": "20. US  <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "20. US  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30296/wormy",
             "status": 1
         },
         {
             "id": 88,
-            "name": "19. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "19. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32746/wormy",
             "status": 1
         },
         {
             "id": 87,
-            "name": "18. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "18. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30042/wormy",
             "status": 1
         },
         {
             "id": 86,
-            "name": "17. US  <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "17. US  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32214/wormy",
             "status": 1
         },
         {
             "id": 85,
-            "name": "16. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "16. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32091/wormy",
             "status": 1
         },
         {
             "id": 84,
-            "name": "15. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "15. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:31279/wormy",
             "status": 1
         },
         {
             "id": 83,
-            "name": "14. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "14. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30536/wormy",
             "status": 1
         },
         {
             "id": 82,
-            "name": "13. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "13. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30162/wormy",
             "status": 1
         },
         {
             "id": 81,
-            "name": "12. US  <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "12. US  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32746/wormy",
             "status": 1
         },
         {
             "id": 80,
-            "name": "11. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "11. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30296/wormy",
             "status": 1
         },
         {
             "id": 78,
-            "name": "10. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "10. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32111/wormy",
             "status": 1
         },
         {
             "id": 78,
-            "name": "09. US  <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "09. US  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:32465/wormy",
             "status": 1
         },
         {
             "id": 77,
-            "name": "08. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "08. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32403/wormy",
             "status": 1
         },
         {
             "id": 76,
-            "name": "07. US <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "07. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:32111/wormy",
             "status": 1
         },
         {
             "id": 75,
-            "name": "06. US  <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "06. US  <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30296/wormy",
             "status": 1
         },
         {
             "id": 74,
-            "name": "05. LEMANZ <img class='team' src='https://haylamday.com/images/team/LEMANZ.png'/>",
+            "name": "05. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://hil-a.wormate.io:30162/wormy",
             "status": 1
         },
         {
             "id": 73,
-            "name": "04. LUCKY GAMING<img class='team' src='https://haylamday.com/images/team/luckyg.jpg'/><div id='online'></div>",
+            "name": "04. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png/><div id='online'></div>",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:32368/wormy",
             "status": 1
         },
         {
             "id": 72,
-            "name": "03. CD TEAM  <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "03. US   <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://dal-b.wormate.io:31750/wormy",
             "status": 1
         },
         {
             "id": 71,
-            "name": "02. TEAM \ud83d\udc4b\ud83d\udc4b ARC <img class='team' src='https://haylamday.com/images/team/team_arc.jpg'/>",
+            "name": "02. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "eeuu",
             "serverUrl": "wss://dal-b.wormate.io:32584/wormy",
             "status": 1
         },
         {
             "id": 70,
-            "name": "01.\ud83d\udd34 YT Nona Milano<img class='team' src='https://i.imgur.com/RQTKt8G.jpeg'/> ",
+            "name": "01. US <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "eeuu",
             "serverUrl": "wss://vin-a.wormate.io:30407/wormy",
             "status": 1
         },
         {
             "id": 62,
-            "name": "62.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "62.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32650/wormy",
             "status": 1
         },
         {
             "id": 61,
-            "name": "61.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "61.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32703/wormy",
             "status": 1
         },
         {
             "id": 60,
-            "name": "60.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "60.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30135/wormy",
             "status": 1
         },
         {
             "id": 59,
-            "name": "59.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "59.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30106/wormy",
             "status": 1
         },
         {
             "id": 58,
-            "name": "58.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "58.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30245/wormy",
             "status": 1
         },
         {
             "id": 57,
-            "name": "57.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "57.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://dal-b.wormate.io:32584/wormy",
             "status": 1
         },
         {
             "id": 56,
-            "name": "56.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "56.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://hil-a.wormate.io:30213/wormy",
             "status": 1
         },
         {
             "id": 55,
-            "name": "55.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "55.  DE-W-PS    <img class='team' src=https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://vin-a.wormate.io:30703/wormy",
             "status": 1
         },
         {
             "id": 54,
-            "name": "54.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "54.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32611/wormy",
             "status": 1
         },
         {
             "id": 53,
-            "name": "53.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "53.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31859/wormy",
             "status": 1
         },
         {
             "id": 52,
-            "name": "52.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "52.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30339/wormy",
             "status": 1
         },
         {
             "id": 51,
-            "name": "51.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "51.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31123/wormy",
             "status": 1
         },
         {
             "id": 50,
-            "name": "50.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "50.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30161/wormy",
             "status": 1
         },
         {
             "id": 49,
-            "name": "49.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "49.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32577/wormy",
             "status": 1
         },
         {
             "id": 48,
-            "name": "48.  De SERVER <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "48.  DE-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32405/wormy",
             "status": 1
         },
         {
             "id": 47,
-            "name": "47.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "47.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31908/wormy",
             "status": 1
         },
         {
             "id": 46,
-            "name": "46.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "46.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30327/wormy",
             "status": 1
         },
         {
             "id": 45,
-            "name": "45.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "45.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30909/wormy",
             "status": 1
         },
         {
             "id": 44,
-            "name": "44.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "44.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31230/wormy",
             "status": 1
         },
         {
             "id": 43,
-            "name": "43.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "43.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31163/wormy",
             "status": 1
         },
         {
             "id": 42,
-            "name": "42.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "42.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31091/wormy",
             "status": 1
         },
         {
             "id": 41,
-            "name": "41.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "41.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31084/wormy",
             "status": 1
         },
         {
             "id": 40,
-            "name": "40.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "40.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30809/wormy",
             "status": 1
         },
         {
             "id": 39,
-            "name": "39.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "39.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30135/wormy",
             "status": 1
         },
         {
             "id": 38,
-            "name": "38.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "38.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30725/wormy",
             "status": 1
         },
         {
             "id": 37,
-            "name": "37.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "37.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32584/wormy",
             "status": 1
         },
         {
             "id": 36,
-            "name": "36.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "36.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
             "status": 1
         },
         {
             "id": 35,
-            "name": "35.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "35.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
             "status": 1
         },
         {
             "id": 34,
-            "name": "34.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "34.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30171/wormy",
             "status": 1
         },
         {
             "id": 33,
-            "name": "33.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "33.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31750/wormy",
             "status": 1
         },
         {
             "id": 32,
-            "name": "32.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "32.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30055/wormy",
             "status": 1
         },
         {
             "id": 31,
-            "name": "31.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "31.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31038/wormy",
             "status": 1
         },
         {
             "id": 30,
-            "name": "30.  De SERVER <img class='team' src='https://haylamday.com/images/team/wfc.png'/><div id='online'></div>",
+            "name": "30.  DE-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/><div id='online'></div>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:31695/wormy",
             "status": 1
         },
         {
             "id": 29,
-            "name": "29.  De SERVER <img class='team' src='https://haylamday.com/images/team/wfc.png'/> ",
+            "name": "29.  DE-W-PS <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/> ",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:32054/wormy",
             "status": 1
         },
         {
             "id": 28,
-            "name": "28.  De SERVER    <img class='team' src='https://haylamday.com/images/team/wfc.png'/>",
+            "name": "28.  DE-W-PS    <img class='team' src='https://i.imgur.com/JUg7Nwb.png'/>",
             "region": "peru",
             "serverUrl": "wss://fra-c.wormate.io:30171/wormy",
             "status": 1
