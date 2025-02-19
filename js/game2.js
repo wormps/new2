@@ -1079,32 +1079,32 @@ var _typeof = typeof Symbol == 'function' && typeof Symbol[_0x1e228d(0x2d0)] == 
                 };
             }, _0xb4fe39;
         }
-        var _0x3ad964 = '/images/linelogo-xmas2022.png',
-            _0x58f14e = _0x3b0090(0x43d),
-            _0x2cd4e2 = /iPad|iPhone|iPod/ ['test'](navigator[_0x3b0090(0x194)]) && !window[_0x3b0090(0x403)],
-            _0x191ef1 = _0x3b0090(0x4a8),
-            _0x273198 = 'https://resources.wormate.io',
-            _0x409b3e = window[_0x3b0090(0x221)];
-        _0x409b3e || = 'en';
-        var _0x5c492d = undefined;
-        switch (_0x409b3e) {
-        case 'uk':
-            _0x5c492d = _0x3b0090(0x259);
-            break;
-        case 'de':
-            _0x5c492d = _0x3b0090(0xd3);
-            break;
-        case 'fr':
-            _0x5c492d = _0x3b0090(0x394);
-            break;
-        case 'ru':
-            _0x5c492d = _0x3b0090(0x510);
-            break;
-        case 'es':
-            _0x5c492d = _0x3b0090(0x19f);
-            break;
-        default:
-            _0x5c492d = 'en_US';
+ var _0x4d4646 = _0x17f9b3(0x3b3);
+        var _0x2dd7e8 = '/images/guest-avatar-xmas2022.png';
+        var _0x3f946b = /iPad|iPhone|iPod/ [_0x17f9b3(0x4fa)](navigator[_0x17f9b3(0x448)]) && !window[_0x17f9b3(0x2a8)];
+        var _0x4cc214 = _0x17f9b3(0x11e);
+        var _0xb24b5c = 'https://resources.wormate.io';
+        var _0x514127 = window[_0x17f9b3(0x49c)];
+        _0x514127 ||= 'en';
+        var _0x27f1d2 = undefined;
+        switch (_0x514127) {
+            case 'uk':
+                _0x27f1d2 = _0x17f9b3(0x51c);
+                break;
+            case 'de':
+                _0x27f1d2 = _0x17f9b3(0x1c3);
+                break;
+            case 'fr':
+                _0x27f1d2 = _0x17f9b3(0x4f4);
+                break;
+            case 'ru':
+                _0x27f1d2 = 'ru_RU';
+                break;
+            case 'es':
+                _0x27f1d2 = 'es_ES';
+                break;
+            default:
+                _0x27f1d2 = _0x17f9b3(0x354);
         }
         moment[_0x3b0090(0x118)](_0x5c492d);
         var _0x2beb8a = ![],
