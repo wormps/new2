@@ -28891,20 +28891,8 @@
                 "en": "M3 CLAN"
             },
             "list": [
-                "2133",
                 "2120",
                 "2121",
-                "2122",
-                "2123",
-                "2124",
-                "2125",
-                "2126",
-                "2127",
-                "2128",
-                "2129",
-                "2130",
-                "2131",
-                "2132"
             ]
         },
         {
@@ -30673,11 +30661,11 @@
         },
         "M3-CLAN_01": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/NBXsfqs.png"
+            "relativePath": "https:\/\/i.imgur.com\/efRdK2z.png"
         },
         "M3-CLAN_02": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/x6mLy70.png"
+            "relativePath": "https:\/\/i.imgur.com\/dKpZxBG.png"
         },
         "M3-CLAN_03": {
             "custom": true,
