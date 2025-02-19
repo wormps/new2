@@ -1190,7 +1190,7 @@ body {display:block !important;}
   right:140px;
   object-fit:contain;
 }
-#game-wrap #game-cont #stretch-box #main-menu-view {color:#fff;}
+#game-wrap #game-cont #stretch-box #main-menu-view {color: #ffffff;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top {
   box-sizing:border-box;
   height:70px;
@@ -1369,7 +1369,7 @@ body {display:block !important;}
   padding:2px 5px;
   box-sizing:border-box;
   color:rgba(255,255,255,.8);
-  box-shadow: 0 0 10px rgb(221 14 186);
+  box-shadow: 0 0 10px rgb(255 255 255);
 }
 
 .title-wormate-friends-connect {
@@ -1566,13 +1566,14 @@ body {display:block !important;}
   border-radius:4px;
   font-size:20px;
   padding:0 6px;
-  background-color:#fff;
-  color:#806102;
+  background-color: #000000;
+  color: #ffffff;
   display:block;
   box-sizing:border-box;
   -webkit-appearance:none;
   outline:0;
   border-width:0;
+  border-radius: 16px;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-middle #mm-menu-cont .mm-params #mm-params-game-mode {
   position:absolute;
@@ -1772,7 +1773,7 @@ body {display:block !important;}
   height:100%;
   width:270px;
   right:30px;
-  box-shadow: 0 0 10px rgb(221 14 186);
+  box-shadow: 0 0 10px rgb(255 255 255);
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-right #loa831pibur0w4gv {
   height:340px;
@@ -4092,9 +4093,8 @@ body {display:block !important;}
 
 
 .cursor-container{
-    display: flow-root;
+    display: contents;
     width: 300px;
-   
 }
 
 
@@ -4491,8 +4491,7 @@ width: 40px;
     width: 600px;
     height: 455px;
     font-size: 15px;
-    box-shadow: 0px 3px 20px 5px #a655cd !important;
-    
+    box-shadow: 0px 3px 20px 5px #ffffff !important;
 }
 
 .close-button {
@@ -4555,6 +4554,7 @@ width: 40px;
         table, th, td {
             border: 1px solid #ccc;
             text-align: center;
+            display: block;
         }
 
         th {
@@ -4926,7 +4926,7 @@ input[type="color"]::-moz-color-swatch {
   display: none !important;
 }
 #game-wrap{
-  background-image: url(https://i.pinimg.com/originals/7d/2a/9f/7d2a9fca264faa93561f72b5fc885fec.gif);
+  background-image: url(https://i.imgur.com/94jqE9w.png);
   background-repeat: repeat;
   background-size: cover;
 }
