@@ -21202,7 +21202,7 @@
         {
             "id": 2804,
             "guest": false,
-            "nonbuyable": true,
+            "nonbuyable": 0,
             "price": 0,
             "priceBefore": 0,
             "prime": "c__yllw",
@@ -28847,7 +28847,8 @@
                 "2800",
                 "2801",
                 "2802",
-                "2810"
+                "2810",
+                "2804"
             ]
         },
         {
@@ -31205,7 +31206,7 @@
         },
         "abufaris_05": {
             "custom": true,
-            "relativePath": "https:\/\/i.imgur.com\/LkeVXHj.png"
+            "relativePath": "https:\/\/i.imgur.com\/crJW0y7.png"
         },
         "abufaris_06": {
             "custom": true,
