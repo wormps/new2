@@ -1894,7 +1894,7 @@ body {display:block !important;}
   background-color:#a4d070;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom #mm-bottom-buttons #mm-store:focus {outline:none;}
-#game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom #mm-bottom-buttons #mm-store * {/* vertical-align:middle; */background: url(https://i.imgur.com/f074TPZ.png);background-repeat: no-repeat;background-size: contain;margin-left: 48px;float: right;}
+#game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom #mm-bottom-buttons #mm-store * {vertical-align:middle;/* background-repeat: no-repeat; */background-size: contain;/* margin-left: 48px; *//* float: none; */}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-bottom .mm-merchant-cont {
   position:absolute;
   top:-15px;
