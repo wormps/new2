@@ -1349,10 +1349,10 @@ body {display:block !important;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-buy:focus {outline:none;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-top #mm-coins-box #mm-coins-buy * {vertical-align:middle;}
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center {
-  height:340px;
-  width:100%;
-  position:absolute;
-  top:70px;
+  height: 338px;
+  width: 100%;
+  position: absolute;
+  top: 70px;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-left {
   position:absolute;
@@ -1767,17 +1767,22 @@ body {display:block !important;}
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-right {
   position:absolute;
-  height:100%;
+  height: 79%;
   width:270px;
   right:30px;
   box-shadow: 0 0 10px rgb(255 255 255);
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-right #loa831pibur0w4gv {
   height:340px;
-  margin:30px 0;
+  margin: 30px 0;
   background: linear-gradient(358deg, #00c2ff, #d200ff);
   border-radius:5px;
   overflow:hidden;
+  background: url(https://i.imgur.com/ULMDeli.png);
+  background-repeat: no-repeat;
+  background-size: 266px;
+  height: 267px;
+  width: 271px;
 }
 #game-wrap #game-cont #stretch-box #main-menu-view #mm-line-center .column-right #loa831pibur0w4gv .label {
   height:30px;
@@ -4636,11 +4641,11 @@ button:hover{
 .hg a{color:#fff;text-decoration: none;line-height: 2;}
  
 
-.bao-list1 {margin: 0px 23px 0px 23px;font-size: 15px;} 
+.bao-list1 {margin: 0px 23px 0px 23px;font-size: 1px;/* background: url(https://i.imgur.com/ULMDeli.png); */color: transparent;} 
 
-.list1{color: #ffff05;border-bottom: #fff solid 0px;}
-.list1 a{color: #09c6f3;font-weight: 600;}
-.list1{text-align: center;}
+.list1{color: #ffff00;border-bottom: #fff solid 0px;}
+.list1 a{color: #09c6f300;font-weight: 600;}
+.list1{text-align: center;color: transparent;}
 
 .list2 {
     font-size: 14px;
