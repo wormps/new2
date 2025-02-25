@@ -5780,7 +5780,7 @@ else {
     
     <input type="button" value="RESPAWN" id="hoisinh" class="fullscreen_respawn">
     
-    <input type="button" value="CONTACT" onclick="window.location.href='https://api.whatsapp.com/send?phone=84924623650&text=Xin%20ch%C3%A0o!%20M%C3%ACnh%20%C4%91ang%20d%C3%B9ng%20Whatsapp'" class="fullscreen_contact">
+    <input type="button" value="CONTACT" onclick="window.location.href='https://discord.gg/T5JJyYa6S2'" class="fullscreen_contact">
     </div> `);
             
             
